@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PentruPomagaDeLaNokia": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
